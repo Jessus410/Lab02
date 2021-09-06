@@ -1,0 +1,2 @@
+Esto es mi Fcihero de texto para aprender del editor vim.
+Tecsup 2021.
